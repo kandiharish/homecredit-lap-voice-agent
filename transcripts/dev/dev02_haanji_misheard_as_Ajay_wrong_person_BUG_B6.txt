@@ -1,0 +1,7 @@
+Time: 10/09/2026 14:06 | Duration: 0:08 | Disconnect: agent_hangup | Successful: Unsuccessful | Latency(ms): 
+Summary: The agent asked for Rahul Sharma, but the user identified himself as Ajay. The agent apologized and ended the call.
+
+AGENT: Good afternoon! Am I speaking with Rahul Sharma?
+USER: Ajay speaking.
+AGENT: I'm sorry for the trouble. Have a good day!
+TOOL: end_call {"execution_message":"I'm sorry for the trouble. Have a good day!"}

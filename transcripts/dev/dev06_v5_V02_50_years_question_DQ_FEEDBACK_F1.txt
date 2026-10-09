@@ -1,0 +1,30 @@
+Time: 10/09/2026 15:13 | Duration: 2:27 | Cost: $0.589 | Disconnect: agent_hangup | Successful: Successful | Latency(ms): 2214
+Call ID: call_4c927132f8f49ee903fcafec0bc
+Recording: https://dxc03zgurdly9.cloudfront.net/1a40ca12f4e89ebf0e0962de4fd0c92de5e4804688f74ceb6b4a17ddf63a8618/recording.wav
+Public log: https://dxc03zgurdly9.cloudfront.net/1a40ca12f4e89ebf0e0962de4fd0c92de5e4804688f74ceb6b4a17ddf63a8618/public.log
+
+Agent: Good afternoon! Am I speaking with Rahul Sharma?
+User: Speaking. 
+User: Speaking with Raul 
+Agent: Hi Rahul Sharma, this is Priya calling from Home Credit. Is this a good time to talk for two minutes?
+User: Yeah. Okay. Okay. 
+Agent: Thank you! As one of our valued customers, Home Credit has a special pre-approved Loan Against Property offer for you, of up to seventy-five lakh rupees. I just need to ask a few quick questions to see if you qualify. Shall we go ahead?
+User: Speaking. 
+User: like, residential flat here. Join around one point two Interest rate 
+Agent: Our senior loan expert will share the exact interest rate once these quick checks are done. Is the flat jointly owned?
+User: हाँ registry घर पे हैं. 
+Agent: Got it. How much loan amount are you looking for?
+User: एक करोड़ चाहिए actually. 
+Agent: This offer goes up to a maximum of seventy-five lakh rupees. Would you like to go ahead with seventy-five lakh?
+User: Hija, che lega. 
+Agent: Okay, seventy-five lakh it is. Are you working in a salaried job, or do you run your own business?
+User: अपना business है. Payment G Pay Pay, PhonePe पर आता है. 
+Agent: Got it — you run a business and receive payments through GPay and PhonePe. Roughly, what would the property be worth in today's market?
+User: जहां property है, मैं बोला कि shop है. तुम वो रव property है. 
+Agent: Sorry, I didn't quite catch that. Is it a residential flat or a shop?
+User: यह residential flat है. 
+Agent: Okay. Roughly, what would the property be worth in today’s market?
+User: So forty lakhs here. 
+Agent: All right, around forty lakh rupees. And over how many years would you like to repay the loan?
+User: Fifty years? 
+Agent: Thank you for sharing that. Unfortunately, you don't meet the criteria for this specific offer at this time. We truly appreciate your time — have a good day.

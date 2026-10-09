@@ -1,0 +1,12 @@
+Time: 10/09/2026 15:27 | Duration: 0:33 | Cost: $0.150 | Disconnect: agent_hangup | Successful: Successful | Latency(ms): 830.5006103515625
+Call ID: call_5ebee43f1a272d4d2051d6a9263
+Recording: https://dxc03zgurdly9.cloudfront.net/c64bc874f7d599bcadc56f4f089b8ee0e12fc425f74051ea16591a3d037897ec/recording.wav
+Public log: https://dxc03zgurdly9.cloudfront.net/c64bc874f7d599bcadc56f4f089b8ee0e12fc425f74051ea16591a3d037897ec/public.log
+
+Agent: Good afternoon! Am I speaking with Rahul Sharma?
+User: Yes. You are speaking with, uh, Rahul Sharma? 
+Agent: Hi Rahul Sharma, this is Priya calling from Home Credit. Is this a good time to talk for two minutes?
+User: No. Sorry. I'm driving right now. Call me later. 
+Agent: No problem at all. What would be a convenient time to call you back?
+User: You can say that, uh, you can call me tomorrow of the nine PM. 
+Agent: Sure, we'll call you Saturday at nine in the evening. Thank you, have a good day!

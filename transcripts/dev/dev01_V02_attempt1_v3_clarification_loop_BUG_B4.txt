@@ -1,0 +1,22 @@
+Time: 10/09/2026 14:06 | Duration: 2:47 | Disconnect: user_hangup | Successful: Unsuccessful | Latency(ms): 1378
+Summary: The agent discussed a pre-approved loan against property offer with Rahul, who confirmed a jointly owned residential flat valued around ₹1.2 crore and asked about the interest rate. The call stalled while clarifying whether original registry documents were available and ended without completing eligibility or obtaining the requested loan amount.
+
+AGENT: Good afternoon! Am I speaking with Rahul Sharma?
+USER: Kanji speaking.
+AGENT: I'm Priya calling from Home Credit about an offer for existing customers. Am I speaking with Rahul Sharma?
+USER: Speaking
+AGENT: Hi Rahul Sharma, this is Priya calling from Home Credit. Is this a good time to talk for two minutes?
+USER: But quickly.
+AGENT: Thank you! As one of our valued customers, Home Credit has a special pre-approved Loan Against Property offer for you, of up to seventy-five lakh rupees. I just need a few quick questions to check your eligibility. Shall we go ahead?
+USER: Okay.
+AGENT: To start, what kind of property is it — a house or flat, a shop or office, a factory, or something else?
+USER: It's a residential flat jointly owned with my wife. With around one point two quote. By the way, what's the interest rate?
+AGENT: Got it — a jointly owned residential flat worth around one crore twenty lakh. Our senior loan expert will share the exact interest rate once these quick checks are done. Do you have the original property documents available for verification?
+USER: Register
+AGENT: Just to confirm, are the original property documents available for verification?
+USER: registry
+AGENT: Do you have the original registry available for verification?
+USER: registry
+AGENT: I mean, do you have the original registry available for verification? Hello, are you able to hear me? Hello, are you able to hear me?
+USER: Yeah.
+AGENT: Okay. How much loan amount are you looking for? Hello, are you able to hear me? Hello, are you able to hear me?

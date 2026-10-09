@@ -1,0 +1,13 @@
+Time: 10/09/2026 14:19 | Duration: 0:57 | Disconnect: agent_hangup | Successful: Successful | Latency(ms): 1144
+Summary: Priya from Home Credit discussed a pre-approved Loan Against Property offer with Rahul. Rahul stated his property is agricultural land in his village, so the agent informed him he was ineligible and ended the call.
+
+AGENT: Good afternoon! Am I speaking with Rahul Sharma?
+USER: Yes. Speaking.
+AGENT: Hi Rahul Sharma, this is Priya calling from Home Credit. Is this a good time to talk for two minutes?
+USER: Yes. Go ahead.
+AGENT: Thank you! As one of our valued customers, Home Credit has a special pre-approved Loan Against Property offer for you, of up to seventy-five lakh rupees. I just need to ask a few quick questions to check your eligibility. Shall we go ahead?
+USER: Ok.
+AGENT: To start, what kind of property is it — a house or flat, a shop or office, a factory, or something else?
+USER: वो तो क्या बोलता है उसको agricultural land है मेरा गांव में.
+AGENT: Thank you for sharing that. Unfortunately, you don't meet the criteria for this specific offer at this time. We truly appreciate your time — have a good day.
+TOOL: end_call {"execution_message":"Thank you for sharing that. Unfortunately, you don't meet the criteria for this specific offer at 

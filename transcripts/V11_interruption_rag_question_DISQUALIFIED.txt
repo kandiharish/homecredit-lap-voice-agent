@@ -1,0 +1,19 @@
+Time: 10/09/2026 15:29 | Duration: 0:57 | Cost: $0.243 | Disconnect: agent_hangup | Successful: Successful | Latency(ms): 1110.998046875
+Call ID: call_f2b6c4453a02f1a4aa3d5c09614
+Recording: https://dxc03zgurdly9.cloudfront.net/ac5f0e55f314bf8da87332515bb141bc7eee215b34cc50311944d7092dadf261/recording.wav
+Public log: https://dxc03zgurdly9.cloudfront.net/ac5f0e55f314bf8da87332515bb141bc7eee215b34cc50311944d7092dadf261/public.log
+
+Agent: Good afternoon! Am I speaking with Rahul Sharma?
+User: Yes. 
+User: Thank you. 
+Agent: Hi Rahul Sharma, this is Priya calling from Home Credit. Is this a good time to talk for two minutes?
+User: Yeah. Go ahead. 
+Agent: Thank you! As one of our valued customers, 
+User: (unintelligible audio)
+Agent: Sorry, I didn't quite catch that. Home Credit has a special pre-approved Loan Against Property offer 
+User: Wait. Wait. Wait. Wait. 
+Agent: for you, of up to 
+User: Wait. What documents, uh, will I need? 
+Agent: You’ll usually need PAN and Aadhaar, six months of bank statements, income proof, and the original property title documents. Shall we go ahead?
+User: Ja, You can, but I don't have the originals with me. Like, we lost our origins. Like, can we give a copies of that? 
+Agent: Thank you for sharing that. Unfortunately, you don't meet the criteria for this specific offer at this time. We truly appreciate your time — have a good day.

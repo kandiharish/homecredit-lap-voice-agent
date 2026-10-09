@@ -1,0 +1,14 @@
+Time: 10/09/2026 15:28 | Duration: 1:10 | Cost: $0.291 | Disconnect: user_hangup | Successful: Successful | Latency(ms): 1136
+Call ID: call_73925e3f7fe712a48135f82ef5f
+Recording: https://dxc03zgurdly9.cloudfront.net/f8b50ae1c86232734856c3eda3891e8f2b6a49153f17d7cca9d1ce49b7dcd793/recording.wav
+Public log: https://dxc03zgurdly9.cloudfront.net/f8b50ae1c86232734856c3eda3891e8f2b6a49153f17d7cca9d1ce49b7dcd793/public.log
+
+Agent: Good afternoon! Am I speaking with Rahul Sharma?
+User: Yes. 
+User: Rahul. He's my son. I'm not Rahul. He's my son. Not at home right now. Who is this? 
+Agent: I’m Priya calling from Home Credit. What would be a good time to reach Rahul Sharma?
+User: If there is an importance, you can talk with me. 
+Agent: Thank you, we'll try Rahul Sharma again later. Have a good day!
+User: Okay. Heal back 
+User: seven in the evening. 
+Agent: Sure, we'll call Rahul Sharma today at seven in the evening. Thank you, have a good day!

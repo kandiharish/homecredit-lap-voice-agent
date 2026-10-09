@@ -1,0 +1,13 @@
+Time: 10/09/2026 14:27 | Duration: 0:34 | Disconnect: agent_hangup | Successful: Unsuccessful | Latency(ms): 1319.8438720703125
+Summary: The agent reached Rahul Sharma from Home Credit but was unable to hear the user clearly. The agent ended the call and stated that the team would call back at a better time.
+
+AGENT: Good afternoon! Am I speaking with Rahul Sharma?
+USER: It's not Rahul Sharma. It's Rahul Sharma. Okay?
+AGENT: Hi Rahul Sharma, this is Priya calling from Home Credit. Is this a good time to talk for two minutes?
+USER: 
+AGENT: Sorry, I didn't quite catch that. Is now a good time to talk for two
+USER: 
+AGENT: minutes? I'm having a little trouble hearing you
+USER: K. P
+AGENT: clearly, so our team will call you back at a better time. Thank you!
+TOOL: end_call {"execution_message":"I'm having a little trouble hearing you clearly, so our team will call you back at a better time. 

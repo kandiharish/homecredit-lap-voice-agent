@@ -1,0 +1,24 @@
+Time: 10/09/2026 15:30 | Duration: 1:35 | Cost: $0.389 | Disconnect: agent_hangup | Successful: Successful | Latency(ms): 1728
+Call ID: call_2d49f88e93b2c38c61407037266
+Recording: https://dxc03zgurdly9.cloudfront.net/399b4f88940940096db30b186ce46ce674ad39366976840b93abd8ae2526981e/recording.wav
+Public log: https://dxc03zgurdly9.cloudfront.net/399b4f88940940096db30b186ce46ce674ad39366976840b93abd8ae2526981e/public.log
+
+Agent: Good afternoon! Am I speaking with Rahul Sharma?
+User: हाँ जी, राहुली बोल रहा हूँ. 
+Agent: Sorry, just to confirm — am I speaking with Rahul Sharma?
+User: हां जी, बोल रहा हूं. 
+Agent: Hi Rahul 
+User: हूं. 
+Agent: Sharma, this is Priya calling from Home Credit. Is this a good time to talk for two minutes?
+User: (unintelligible audio)
+User: हां बता जी 
+Agent: Thank 
+User: बता जी बताइए. 
+Agent: you!
+Agent: As one of our valued customers, Home Credit has a special pre-approved Loan Against Property offer for you, of up to seventy-five lakh rupees. I just need to ask a few quick questions to see if you qualify. Shall we go ahead?
+User: मेरा मेरा अपना घर मेरा मेरा अपना घर है सिर्फ मेरा नाम पे ही है 
+Agent: Got it — it’s your own house, in your name alone. Do you have the original property documents, like the sale deed or registry, available for verification?
+User: verification यार. 
+Agent: Sorry, I didn't quite catch that. Do you have the original property documents, yes or no?
+User: No. 
+Agent: Thank you for sharing that. Unfortunately, you don't meet the criteria for this specific offer at this time. We truly appreciate your time — have a good day.

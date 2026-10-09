@@ -1,0 +1,22 @@
+Time: 10/09/2026 15:26 | Duration: 1:20 | Cost: $0.331 | Disconnect: agent_hangup | Successful: Successful | Latency(ms): 1354.3436279296875
+Call ID: call_fb9cb0c76d118af0a5a59801ff7
+Recording: https://dxc03zgurdly9.cloudfront.net/60b4f3a31c56d6db05203fa53d24cb07a9ffda5751bf903203b750cc5b64f18f/recording.wav
+Public log: https://dxc03zgurdly9.cloudfront.net/60b4f3a31c56d6db05203fa53d24cb07a9ffda5751bf903203b750cc5b64f18f/public.log
+
+Agent: Good afternoon! Am I speaking with Rahul Sharma?
+User: Rahul 
+Agent: Sorry, just to confirm — am I speaking with Rahul Sharma?
+User: Ja, SEO ist bei GaN. 
+Agent: Sorry, I didn't quite catch that. Am I speaking with Rahul Sharma?
+User: Yes. Are speaking with Rahul 
+Agent: Hi Rahul Sharma, this is Priya calling from Home Credit. Is this a good time to talk for two minutes?
+User: Yeah. Okay. 
+Agent: Thank you! As one of our valued customers, Home Credit has a special pre-approved Loan Against Property offer for you, of up to seventy-five lakh rupees. I just need to ask a few quick questions to see if you qualify. Shall we go ahead?
+User: Okay. 
+Agent: To start, what kind of property is it — a house or flat, a shop or office, a factory, or something else?
+User: (unintelligible audio)
+Agent: Sorry, I didn't quite 
+User: Already home 
+Agent: catch that. Is it a house, flat, shop, office, factory, or land?
+User: Flat है मेरे पास but उस पर already home loan चल रहा है. EMI बहुत ज़्यादा है कम करने की कुछ कम करने हैं कम करना है 
+Agent: Thank you for letting me know. Since you're looking to reduce your current EMI, our loan-transfer specialist will contact you shortly to help with that. Have a great day!

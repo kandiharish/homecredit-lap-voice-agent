@@ -1,0 +1,24 @@
+Time: 10/09/2026 15:17 | Duration: 1:49 | Cost: $0.443 | Disconnect: agent_hangup | Successful: Successful | Latency(ms): 2095
+Call ID: call_feb024649d9e6dc0b43b6886345
+Recording: https://dxc03zgurdly9.cloudfront.net/21250eb1edefe38a727e3b545e7e8c06724c446d5beea823a72b0dbf06699d69/recording.wav
+Public log: https://dxc03zgurdly9.cloudfront.net/21250eb1edefe38a727e3b545e7e8c06724c446d5beea823a72b0dbf06699d69/public.log
+
+Agent: Good afternoon! Am I speaking with Rahul Sharma?
+User: हां जी, राहुल बोल रहा हूं. 
+Agent: Hi Rahul Sharma, this is Priya calling from Home Credit. Is this a good time to talk for two minutes?
+User: हां बोलो. 
+Agent: Thank you! As one of our valued customers, Home Credit has a special pre-approved Loan Against Property offer for you, of up to seventy-five lakh rupees. I just need to ask a few quick questions to see if you qualify. Shall we go ahead?
+User: मैं बोला ना ठीक है 
+Agent: To start, what kind of property is it — a house or flat, a shop or office, a factory, or something else?
+User: मेरा दुकान है, सिर्फ मेरा नाम है. हां. घर में घर में है 
+Agent: Got it — it’s your shop, in your name, and the original papers are at home. How much loan amount are you looking for?
+User: these lakh. 
+Agent: Sorry, did you mean three lakh?
+User: This This Lakh 
+Agent: Sorry, I didn't quite catch that. How much loan do you need, roughly?
+User: this beeslakh 
+Agent: Okay, twenty lakh. Are you working in a salaried job, or do you run your own business?
+User: Kirana store customers cash 
+Agent: Got it. Is that cash regularly deposited into your bank account?
+User: nahi nahi cash ghar pe h I रखता हूँ मैं. 
+Agent: Thank you for sharing that. Unfortunately, you don't meet the criteria for this specific offer at this time. We truly appreciate your time — have a good day.

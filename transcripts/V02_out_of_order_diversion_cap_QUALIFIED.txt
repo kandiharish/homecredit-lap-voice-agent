@@ -1,0 +1,25 @@
+Time: 10/09/2026 14:17 | Duration: 2:08 | Disconnect: agent_hangup | Successful: Successful | Latency(ms): 1259.5
+Summary: Priya from Home Credit verified Rahul Sharma's preliminary eligibility for a loan against a jointly owned residential flat. Rahul requested ₹75 lakh over 60 months for his business, and a senior loan expert will follow up with interest rates and next steps.
+
+AGENT: Good afternoon! Am I speaking with Rahul Sharma?
+USER: Speaking.
+AGENT: Hi Rahul Sharma, this is Priya calling from Home Credit. Is this a good time to talk for two minutes?
+USER: Ah, bueno.
+AGENT: Thank you! As one of our valued customers, Home Credit has a special pre-approved Loan Against Property offer for you, of up to seventy-five lakh rupees. I just need to ask a few quick questions to check your eligibility. Shall we go ahead?
+USER: 
+AGENT: Sorry, I didn't quite catch that. Would you like to go ahead with the quick questions?
+USER: ठीक है ok.
+AGENT: To start, what kind of property is it — a house or flat, a shop or office, a factory, or something else?
+USER: It's a residential flat jointly owned with my wife. Worth around one point two crore, by the way. What's the interest rate?
+AGENT: Our senior loan expert will share the exact interest rate once these quick checks are done. Do you have the original property documents available for verification?
+USER: हाँ registry registry है तो घर पे है.
+AGENT: Got it. How much loan amount are you looking for?
+USER: Actually, I need a crore.
+AGENT: This offer goes up to a maximum of seventy-five lakh rupees. Would you like to go ahead with seventy-five lakh?
+USER: ठीक है. Seventy five seventy five is fine.
+AGENT: Okay. Are you working in a salaried job, or do you run your own business?
+USER: I have my own business payments come on Google Pay PhonePe, Paytm, like that.
+AGENT: Got it — you run your own business and receive payments digitally. And over how many years would you like to repay the loan?
+USER: Sixty months.
+AGENT: Thank you, Rahul Sharma. Based on your answers, you meet the preliminary criteria for this offer. One of our senior loan experts will call you shortly to share the exact interest rates and next steps. Have a great day!
+TOOL: end_call {"execution_message":"Thank you, Rahul Sharma. Based on your answers, you meet the preliminary criteria for this offer. 

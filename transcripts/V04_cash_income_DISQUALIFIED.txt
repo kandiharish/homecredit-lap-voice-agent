@@ -1,0 +1,27 @@
+Time: 10/09/2026 14:20 | Duration: 2:29 | Disconnect: agent_hangup | Successful: Successful | Latency(ms): 1653
+Summary: Priya from Home Credit discussed a pre-approved loan against property offer with Rahul Sharma. Rahul stated he owns a shop, has original documents, seeks a ₹30 lakh loan, and runs a kirana store but does not deposit cash income in a bank account; he was informed he was ineligible for this offer.
+
+AGENT: Good afternoon! Am I speaking with Rahul Sharma?
+USER: Yes. You are speaking with Rahul
+AGENT: Hi Rahul Sharma, this is Priya calling from Home Credit. Is this a good time to talk for two minutes?
+USER: Actually, where are you from? Like,
+AGENT: I'm Priya, calling from Home Credit about an offer for existing customers. Is this a good time to talk for two minutes?
+USER: Who do you think that I'm a? Rahul Sharma?
+AGENT: Yes, Rahul Sharma. Is this a good time to talk for two minutes?
+USER: Yes. Go ahead.
+AGENT: Thank you! As one of our valued customers, Home Credit has a special pre-approved Loan Against Property offer for you, of up to seventy-five lakh rupees. I just need a few quick answers to check eligibility. Shall we go ahead?
+USER: Ya, tique.
+AGENT: To start, what kind of property is it — a house or flat, a shop or office, a factory, or something else?
+USER: वह मेरा और shop है वह मेरे नाम पर ही है.
+AGENT: Got it — it's your shop and in your name. Do you have the original property documents, like the sale deed or registry, available for verification?
+USER: हां originals तो है घर पर.
+AGENT: Okay. How much loan amount are you looking for?
+USER: वो तो thirty lakh
+AGENT: Thirty lakh rupees, noted. Are you working in a salaried job, or do you run your own business?
+USER: 
+AGENT: Sorry, I didn't quite catch that. Do you have a salaried job, or do you run your own business?
+USER: I have a kirana store. Customers pay in cash.
+AGENT: Got it — you run a kirana store. Is that cash regularly deposited into your bank account?
+USER: No. I keep the catch at home only.
+AGENT: Thank you for sharing that. Unfortunately, you don't meet the criteria for this specific offer at this time. We truly appreciate your time — have a good day.
+TOOL: end_call {"execution_message":"Thank you for sharing that. Unfortunately, you don't meet the criteria for this specific offer at 

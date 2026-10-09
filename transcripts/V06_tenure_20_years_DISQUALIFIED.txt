@@ -1,0 +1,27 @@
+Time: 10/09/2026 15:21 | Duration: 2:06 | Cost: $0.508 | Disconnect: agent_hangup | Successful: Successful | Latency(ms): 1325.5009765625
+Call ID: call_719a95ecef0b4ee1241c3c081d5
+Recording: https://dxc03zgurdly9.cloudfront.net/ef7ddc3cfc4417472aa1f3a7f21c4a7660ded660a84aec64c3c94b029ee4a68b/recording.wav
+Public log: https://dxc03zgurdly9.cloudfront.net/ef7ddc3cfc4417472aa1f3a7f21c4a7660ded660a84aec64c3c94b029ee4a68b/public.log
+
+User: you 
+Agent: Good afternoon! Am I speaking with Rahul Sharma?
+User: yes. 
+Agent: Sorry, just to confirm — am I speaking with Rahul Sharma?
+User: Yes. 
+Agent: Hi Rahul Sharma, this is Priya calling from Home Credit. Is this a good time to talk for two minutes?
+User: Yes, go ahead. 
+Agent: Thank you! As one of our valued customers, Home Credit has a special pre-approved Loan Against Property offer for you, of up to seventy-five lakh rupees. I just need to ask a few quick questions to see if you qualify. Shall we go ahead?
+User: Yeah sure go ahead. 
+Agent: What kind of property is it — a house or flat, a shop or office, a factory, or something else?
+User: Is my, uh, flat you can say, that is on my name. 
+Agent: Got it — it’s a flat in your name. Do you have the original property documents, like the sale deed or registry, available for verification?
+User: Yeah. As the origins are at home, 
+Agent: Okay, thank you. How much loan amount are you looking for?
+User: I'm looking for a roundly two lakhs. 
+Agent: Got it. Are you working in a salaried job, or do you run your own business?
+User: I run my own business, you can say. But sorry. No. No. Not my own business. I'm Salary comes nearly to my bank. 
+Agent: Got it — you’re salaried and your income comes into your bank account. Roughly, what would the property be worth in today’s market?
+User: In today's market, you can say it is nearly five to six lakh. 
+Agent: Thanks. And over how many years would you like to repay the loan?
+User: Coming to you, Deepi. The loan, like, I'll pay within twenty years. 
+Agent: Thank you for sharing that. Unfortunately, you don't meet the criteria for this specific offer at this time. We truly appreciate your time — have a good day.

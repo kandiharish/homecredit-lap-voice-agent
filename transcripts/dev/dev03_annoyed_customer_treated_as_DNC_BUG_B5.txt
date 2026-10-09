@@ -1,0 +1,7 @@
+Time: 10/09/2026 14:26 | Duration: 0:17 | Disconnect: agent_hangup | Successful: Unsuccessful | Latency(ms): 1300.5
+Summary: The agent confirmed it was speaking with Rahul Sharma. Rahul questioned the caller's identity and purpose and expressed annoyance at being called; the agent apologized and ended the call.
+
+AGENT: Good afternoon! Am I speaking with Rahul Sharma?
+USER: Yes. Yes. are speaking with Rahul Sharma. Tell me who are you and why you're calling me? Don't have any sense to call me.
+AGENT: I'm sorry for disturbing you. I've noted your request. Have a good day.
+TOOL: end_call {"execution_message":"I'm sorry for disturbing you. I've noted your request. Have a good day."}

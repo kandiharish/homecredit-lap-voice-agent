@@ -1,0 +1,17 @@
+Time: 10/09/2026 15:16 | Duration: 1:08 | Cost: $0.285 | Disconnect: agent_hangup | Successful: Successful | Latency(ms): 1061.3759765625
+Call ID: call_033328e1d9bfde54685b5a49ea0
+Recording: https://dxc03zgurdly9.cloudfront.net/8503f929c3c2866cef8a28c84d769eaff27d4372025f44ab9be575089f1350ce/recording.wav
+Public log: https://dxc03zgurdly9.cloudfront.net/8503f929c3c2866cef8a28c84d769eaff27d4372025f44ab9be575089f1350ce/public.log
+
+Agent: Good afternoon! Am I speaking with Rahul Sharma?
+User: Speaking. 
+Agent: Hi Rahul Sharma, this is Priya calling from Home Credit. Is this a good time to talk for two minutes?
+User: हां बोलो, हां बोलो जी. 
+Agent: Thank you! As one of our valued customers, Home Credit has a special pre-approved Loan Against Property offer for you, of up to seventy-five lakh rupees. I just need to ask a few quick questions to see if you qualify. Shall we go ahead?
+User: Okay. 
+Agent: To start, what kind of property is it — a house or flat, a shop or office, a factory, or something else?
+User: (unintelligible audio)
+Agent: Sorry, I didn't quite catch that. Is it a house or flat, a shop or office, or a factory?
+User: वह क्या है ना agricultural land है 
+User: मेरा में? 
+Agent: Thank you for sharing that. Unfortunately, you don't meet the criteria for this specific offer at this time. We truly appreciate your time — have a good day.

@@ -1,0 +1,28 @@
+Time: 10/09/2026 15:10 | Duration: 2:18 | Cost: $0.555 | Disconnect: agent_hangup | Successful: Successful | Latency(ms): 1606
+Call ID: call_7c077c5c693600036e4d08ebed7
+Recording: https://dxc03zgurdly9.cloudfront.net/1bb89691f49d6f8060f43e5469cb80e189fd3d430363a2b6c963639a420f016f/recording.wav
+Public log: https://dxc03zgurdly9.cloudfront.net/1bb89691f49d6f8060f43e5469cb80e189fd3d430363a2b6c963639a420f016f/public.log
+
+Agent: Good afternoon! Am I speaking with Rahul Sharma?
+User: Yes. Speaking. 
+Agent: Hi Rahul Sharma, this is Priya calling from Home Credit. Is this a good time to talk for two minutes?
+User: Yeah. Sure. Go ahead. 
+Agent: Thank you! As one of our valued customers, Home Credit has a special pre-approved Loan Against Property offer for you, of up to seventy-five lakh rupees. I just need to ask a few quick questions to see if you qualify. Shall we go ahead?
+User: Ya, ok. 
+Agent: To start, what kind of property is it — a house or flat, a shop or office, a factory, or something else?
+User: Yes. Their original registry is at home. It's a flat. A two BHK in It's only on in mining. 
+Agent: Got it — it’s a flat, and the original registry is at home. Is the property in your name alone, or jointly owned with family or a partner?
+User: It's only in my name. 
+Agent: Okay, thank you. How much loan amount are you looking for?
+User: Around forty lakh. 
+Agent: Got it. Are you working in a salaried job, or do you run your own business?
+User: I'm salaried. Like, my salary comes directly into my bank account. Around, like, eighty two, eighty five it contains. 
+Agent: Okay, thank you. Roughly, what would the property be worth in today’s market?
+User: Maybe around the IT to eighty five. 
+Agent: Sorry, I didn't quite catch that. Roughly, is the property worth around eighty to eighty-five lakh rupees?
+User: Yes. Yes. That's the thing. 
+Agent: Got it. And over how many years would you like to repay the loan?
+User: How many years you are acceptable to take the time? 
+Agent: About how many years would you prefer to repay it?
+User: How many years it is okay if I pay sixty years? Is it okay? 
+Agent: Thank you for sharing that. Unfortunately, you don't meet the criteria for this specific offer at this time. We truly appreciate your time — have a good day.

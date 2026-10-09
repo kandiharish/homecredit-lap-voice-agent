@@ -1,0 +1,29 @@
+Time: 10/09/2026 15:23 | Duration: 2:22 | Cost: $0.572 | Disconnect: agent_hangup | Successful: Successful | Latency(ms): 1044.00048828125
+Call ID: call_ae8437f5ea253b0e22b247f3292
+Recording: https://dxc03zgurdly9.cloudfront.net/851cee98549e09f8395cab2eadab1b5d7ac523ccb3eb2f2c75abdbc44c3ea2ae/recording.wav
+Public log: https://dxc03zgurdly9.cloudfront.net/851cee98549e09f8395cab2eadab1b5d7ac523ccb3eb2f2c75abdbc44c3ea2ae/public.log
+
+Agent: Good afternoon! Am I speaking with Rahul Sharma?
+User: Yes. Speaking. 
+Agent: Hi Rahul Sharma, this is Priya calling from Home Credit. Is this a good time to talk for two minutes?
+User: Yes. Go ahead. 
+Agent: Thank you! As one of our valued customers, Home Credit has a special pre-approved Loan Against Property offer for you, of up to seventy-five lakh rupees. I just need to ask a few quick questions to see if you qualify. Shall we go ahead?
+User: Yeah, go ahead. 
+Agent: What kind of property is it — a house or flat, a shop or office, a factory, or something else?
+User: I can reach a commercial office. 
+User: only in my as the originals are with me, need ninety racks rupees. 
+Agent: Got it — a commercial office, solely yours, with the original documents available. This offer goes up to a maximum of seventy-five lakh rupees. Would you like to go ahead with seventy-five lakh?
+User: Yeah. You can go, uh, Seven like, 
+Agent: Sorry, just to confirm — do you mean seventy-five lakh rupees?
+User: seventy five rupees चलेगा बोल रहा हूं. 
+Agent: Okay, seventy-five lakh rupees. Are you working in a salaried job, or do you run your own business?
+User: Yes. Uh, working at a salary job. 
+Agent: And is your income received in your bank account, or mostly in cash?
+User: Mostly, it it comes through a bank account. 
+Agent: What would the property be worth in today’s market, roughly?
+User: Roughly around seventy ninety, not sorry. Roughly around fifty lakhs. 
+Agent: Got it, around fifty lakh rupees. Over how many years would you like to repay the loan?
+User: I want to repay it nearly around 
+Agent: Sorry, I didn’t quite catch that. About how many years would you like to repay it over?
+User: And I want to change, like, I I want I don't want, uh, that seventy five lakh. Seventy five lakh won't work for me. Need the full ninety lakh. 
+Agent: Thank you for sharing that. Unfortunately, you don't meet the criteria for this specific offer at this time. We truly appreciate your time — have a good day.
